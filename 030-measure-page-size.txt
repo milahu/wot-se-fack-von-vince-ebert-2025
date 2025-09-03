@@ -1,0 +1,12 @@
+# TODO set config values
+
+num_pages=226
+scan_x=205
+scan_y=126
+
+scan_resolution=600
+scan_format=tiff
+
+# these values depend on the scanner model
+scan_mode="True Gray"
+scan_source="Automatic Document Feeder(left aligned,Duplex)"
