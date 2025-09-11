@@ -1,12 +1,9 @@
 # TODO set config values
 
 # note: rotate is applied first, then crop
-crop_size=2850x4842
-crop_x_odd=$((2976 - 2850))
-crop_x_even=000
 lowthresh=20; highthresh=90
 level=${lowthresh}x${highthresh}%
 rotate_odd=090
 rotate_even=270
-crop_odd_expr='echo ${crop_size}+${crop_x_odd}+0'
-crop_even_expr='echo ${crop_size}+${crop_x_even}+0'
+crop_odd=3280x5078+$((3685 - 3280))+0
+crop_even=3280x5078+0+0

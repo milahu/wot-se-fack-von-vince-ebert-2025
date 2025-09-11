@@ -5,6 +5,8 @@
 # with a horizontal edge which is not parallel to the page edge
 # so that "false edge" would distort the deskew result
 
+set -eu
+
 cd "$(dirname "$0")"
 src=040-scan-pages
 dst=$(basename "$0" .sh)
@@ -34,7 +36,7 @@ mkdir -p $dst
 t1=$(date --utc +%s)
 num_pages=0
 
-for i in $src/*; do
+for i in $src/*.$scan_format; do
 
   # FIXME use $num_pages and $scan_format
   page_number=${i%.tiff}
@@ -48,10 +50,10 @@ for i in $src/*; do
 
   if ((page_number % 2 == 1)); then
     rot=$rotate_odd
-    crop="$(eval "$crop_odd_expr")"
+    crop=$crop_odd
   else
     rot=$rotate_even
-    crop="$(eval "$crop_even_expr")"
+    crop=$crop_even
   fi
 
   echo + magick "$i" -rotate $rot -crop $crop -level $level "$o"
@@ -59,7 +61,7 @@ for i in $src/*; do
 
   num_pages=$((num_pages + 1))
 
-  # [ "$page_number" = 10 ] && break # debug
+  # [ "$page_number" = 20 ] && break # debug
 
   sleep 0.01 # let user kill
 

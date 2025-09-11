@@ -33,6 +33,8 @@ args=(
   --source="$scan_source"
   --MultifeedDetection=yes
   --SkipBlankPage=no
+  --AutoDocumentSize=no # dont autocrop
+  --AutoDeskew=no
   -x "$scan_x"
   -y "$scan_y"
   --batch="$dst/$page_num_fmt.$scan_format"
@@ -40,6 +42,11 @@ args=(
   --batch-print
   --batch-start="$2"
 )
+
+o=$dst/scanimage-args.txt
+if ! [ -e "$o" ]; then
+  printf " %q" "${args[@]}" | tail -c+2 >$o
+fi
 
 t1=$(date --utc +%s)
 num_pages_1=$(ls $dst | wc -l)
