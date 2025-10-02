@@ -5,5 +5,5 @@ lowthresh=20; highthresh=90
 level=${lowthresh}x${highthresh}%
 rotate_odd=090
 rotate_even=270
-crop_odd=3280x5078+$((3685 - 3280))+0
-crop_even=3280x5078+0+0
+crop_odd=2784x5078+$((3118 - 2784))+0
+crop_even=2784x5078+0+0
