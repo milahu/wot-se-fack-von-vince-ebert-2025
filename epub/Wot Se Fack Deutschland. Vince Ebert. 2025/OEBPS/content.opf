@@ -1,0 +1,132 @@
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="3.0" prefix="tdm: http://www.w3.org/ns/tdmrep#" xml:lang="de">
+  <metadata>
+    <dc:title id="opf_title">Wot se Fack, Deutschland?</dc:title>
+    <dc:creator id="id-1">Vince Ebert</dc:creator>
+    <dc:rights>© 2025 dtv Verlagsgesellschaft mbH &amp; Co. KG, München. Dieses E-Book ist urheberrechtlich geschützt.</dc:rights>
+    <dc:identifier>calibre:147</dc:identifier>
+    <dc:identifier>uuid:d792cc5a-c7fc-48d0-aaf4-18c1d6636c3e</dc:identifier>
+    <dc:identifier id="bookid">urn:isbn:9783423400848</dc:identifier>
+    <dc:source id="opf_printISBN">urn:isbn:9783423264167</dc:source>
+    <dc:type>Text</dc:type>
+    <dc:language>de</dc:language>
+    <dc:contributor id="id">calibre (8.8.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;div&gt;
+&lt;p&gt;upped by @surgicalremnants&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>dtv Verlagsgesellschaft mbH &amp; Co. KG, München</dc:publisher>
+    <dc:subject>upped by @surgicalremnants</dc:subject>
+    <meta refines="#opf_title" property="title-type">main</meta>
+    <meta refines="#opf_title" property="file-as">Wot se Fack, Deutschland?</meta>
+    <meta refines="#bookid" property="identifier-type" scheme="onix:codelist5">15</meta>
+    <meta property="pageBreakSource">urn:isbn:9783423264167</meta>
+    <meta refines="#opf_printISBN" property="identifier-type" scheme="onix:codelist5">15</meta>
+    <meta property="dcterms:modified">2025-08-14T19:15:14Z</meta>
+    <meta name="generator" content="parsX EPUB-Konverter 4.3.10.1"/>
+    <meta name="parsxInfo" content="lid:::4.3.10.1:20250429"/>
+    <meta property="tdm:reservation">1</meta>
+    <meta name="cover" content="cover-image"/>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessibilityHazard">none</meta>
+    <meta property="schema:accessibilityFeature">readingOrder</meta>
+    <meta property="schema:accessibilityFeature">printPageNumbers</meta>
+    <meta property="schema:accessibilityFeature">pageNavigation</meta>
+    <meta property="schema:accessibilityFeature">highContrastDisplay</meta>
+    <meta property="schema:accessibilityFeature">displayTransformability</meta>
+    <meta property="schema:accessibilityFeature">ARIA</meta>
+    <meta property="schema:accessibilitySummary">Dieses eBook entspricht den Vorgaben des W3C-Standards EPUB Accessibility 1.1 (neueste Version des Barrierefreiheitsstandards für EPUB) und den darin enthaltenen Regeln von WCAG, Level AA (hohes Niveau an Barrierefreiheit). Die Publikation ist durch Features wie Table of Contents (Inhaltsverzeichnis), Navigationspunkte und semantische Content-Struktur zugänglich aufgebaut.</meta>
+    <meta property="schema:accessibilityFeature">tableOfContents</meta>
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+    <meta refines="#id" property="role" scheme="marc:relators">bkp</meta>
+    <meta refines="#id-1" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#id-1" property="file-as">Ebert, Vince</meta>
+  </metadata>
+  <manifest>
+    <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="tpl_2" href="10-kurztext.xhtml" media-type="application/xhtml+xml"/>
+    <item id="tpl_4" href="40-haupttitel_parsx4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="inhaltsvz" href="inhaltsvz.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kapitel1" href="kapitel1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kapitel2" href="kapitel2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kapitel3" href="kapitel3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kapitel4" href="kapitel4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kapitel5" href="kapitel5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kapitel6" href="kapitel6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kapitel7" href="kapitel7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kapitel8" href="kapitel8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kapitel9" href="kapitel9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kapitel10" href="kapitel10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kapitel11" href="kapitel11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kapitel12" href="kapitel12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kapitel13" href="kapitel13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kapitel14" href="kapitel14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kapitel15" href="kapitel15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kapitel16" href="kapitel16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="kapitel17" href="kapitel17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="endnotes1" href="endnotes1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="tpl_6" href="50-bio-monographie.xhtml" media-type="application/xhtml+xml"/>
+    <item id="tpl_8" href="60-impressum.xhtml" media-type="application/xhtml+xml"/>
+    <item id="nav" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="style-standard" href="stylesheet.css" media-type="text/css"/>
+    <item id="cover-image" href="images/cover_978-3-423-40084-8.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="img_3" href="images/dtv_logo.jpg" media-type="image/jpeg"/>
+    <item id="font_1" href="fonts/CrimsonText-Italic.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="font_3" href="fonts/CrimsonText-Roman.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="font_4" href="fonts/CrimsonText-Semibold.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="font_5" href="fonts/CrimsonText-SemiboldItalic.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="font_7" href="fonts/FiraMono-Regular.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="font_9" href="fonts/KaushanScript_Regular.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="font_10" href="fonts/NotoMono-Regular.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="font_11" href="fonts/NotoSans-Bold.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="font_12" href="fonts/NotoSans-BoldItalic.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="font_13" href="fonts/NotoSans-Italic.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="font_14" href="fonts/NotoSans-Regular.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="font_15" href="fonts/NotoSerif-Bold.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="font_16" href="fonts/NotoSerif-BoldItalic.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="font_17" href="fonts/NotoSerif-Italic.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="font_18" href="fonts/NotoSerif-Regular.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="font_21" href="fonts/pa_DancingScript.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="font_22" href="fonts/pa_DejaVuSans_smiley.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="font_23" href="fonts/pa_LinBiolinum_Bold.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="font_24" href="fonts/pa_LinBiolinum_Italic.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="font_26" href="fonts/pa_LinBiolinum_Regular.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="font_19" href="fonts/ReenieBeanie-Regular.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="font_2" href="fonts/CrimsonText-LICENSE.txt" media-type="text/plain"/>
+    <item id="font_6" href="fonts/FiraMono-LICENSE.txt" media-type="text/plain"/>
+    <item id="font_8" href="fonts/KaushanScript-LICENSE.txt" media-type="text/plain"/>
+    <item id="font_20" href="fonts/pa_DancingScript-LICENSE.txt" media-type="text/plain"/>
+    <item id="font_25" href="fonts/pa_LinBiolinum_LICENSE.txt" media-type="text/plain"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover"/>
+    <itemref idref="tpl_2"/>
+    <itemref idref="tpl_4"/>
+    <itemref idref="inhaltsvz"/>
+    <itemref idref="kapitel1"/>
+    <itemref idref="kapitel2"/>
+    <itemref idref="kapitel3"/>
+    <itemref idref="kapitel4"/>
+    <itemref idref="kapitel5"/>
+    <itemref idref="kapitel6"/>
+    <itemref idref="kapitel7"/>
+    <itemref idref="kapitel8"/>
+    <itemref idref="kapitel9"/>
+    <itemref idref="kapitel10"/>
+    <itemref idref="kapitel11"/>
+    <itemref idref="kapitel12"/>
+    <itemref idref="kapitel13"/>
+    <itemref idref="kapitel14"/>
+    <itemref idref="kapitel15"/>
+    <itemref idref="kapitel16"/>
+    <itemref idref="kapitel17"/>
+    <itemref idref="endnotes1"/>
+    <itemref idref="tpl_6"/>
+    <itemref idref="tpl_8"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="cover.xhtml"/>
+    <reference type="toc" title="Inhaltsübersicht" href="inhaltsvz.xhtml"/>
+    <reference type="text" title="Textanfang" href="cover.xhtml"/>
+    <reference type="copyright-page" title="Impressum" href="60-impressum.xhtml"/>
+  </guide>
+</package>

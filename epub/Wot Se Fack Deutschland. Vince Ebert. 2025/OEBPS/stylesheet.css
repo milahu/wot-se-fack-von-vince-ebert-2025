@@ -1,0 +1,460 @@
+/***************************************************************************************
+* ParsX Produkt-CSS für EPUB-Dateien nach ParsX 4
+****************************************************************************************
+* @project		dtv Verlag-CSS ParsX 4
+* @version		1.0
+* @parsx		  4.2.0
+* @date		   2022-02-05
+* @author		 Björn Dünckel (pagina GmbH)
+* @lastEditor	 Björn Dünckel (pagina GmbH)
+* @copyright	  pagina GmbH
+*****************************************************************************************/
+@font-face {
+  font-family: "Subset-Noto Serif";
+  font-style: normal;
+  font-weight: normal;
+  src: url(fonts/NotoSerif-Regular.ttf);
+}
+@font-face {
+  font-family: "Subset-Noto Serif";
+  font-style: italic;
+  font-weight: normal;
+  src: url(fonts/NotoSerif-Italic.ttf);
+}
+@font-face {
+  font-family: "Subset-Noto Serif";
+  font-style: normal;
+  font-weight: bold;
+  src: url(fonts/NotoSerif-Bold.ttf);
+}
+@font-face {
+  font-family: "Subset-Noto Serif";
+  font-style: italic;
+  font-weight: bold;
+  src: url(fonts/NotoSerif-BoldItalic.ttf);
+}
+@font-face {
+  font-family: "Subset-Noto Sans";
+  font-style: normal;
+  font-weight: normal;
+  src: url(fonts/NotoSans-Regular.ttf);
+}
+@font-face {
+  font-family: "Subset-Noto Sans";
+  font-style: italic;
+  font-weight: normal;
+  src: url(fonts/NotoSans-Italic.ttf);
+}
+@font-face {
+  font-family: "Subset-Noto Sans";
+  font-style: normal;
+  font-weight: bold;
+  src: url(fonts/NotoSans-Bold.ttf);
+}
+@font-face {
+  font-family: "Subset-Noto Sans";
+  font-style: italic;
+  font-weight: bold;
+  src: url(fonts/NotoSans-BoldItalic.ttf);
+}
+@font-face {
+  font-family: "Subset-Noto Mono";
+  font-style: normal;
+  font-weight: normal;
+  src: url(fonts/NotoMono-Regular.ttf);
+}
+@font-face {
+  font-family: "Subset-Reenie Beanie";
+  font-style: normal;
+  font-weight: normal;
+  src: url(fonts/ReenieBeanie-Regular.ttf);
+}
+@font-face {
+  font-family: "Subset-Crimson Text";
+  font-style: normal;
+  font-weight: normal;
+  src: url(fonts/CrimsonText-Roman.ttf);
+}
+@font-face {
+  font-family: "Subset-Crimson Text";
+  font-style: italic;
+  font-weight: normal;
+  src: url(fonts/CrimsonText-Italic.ttf);
+}
+@font-face {
+  font-family: "Subset-Crimson Text";
+  font-style: normal;
+  font-weight: bold;
+  src: url(fonts/CrimsonText-Semibold.ttf);
+}
+@font-face {
+  font-family: "Subset-Crimson Text";
+  font-style: italic;
+  font-weight: bold;
+  src: url(fonts/CrimsonText-SemiboldItalic.ttf);
+}
+@font-face {
+  font-family: "Subset-Fira Mono";
+  font-style: normal;
+  font-weight: normal;
+  src: url(fonts/FiraMono-Regular.ttf);
+}
+@font-face {
+  font-family: "Subset-Linux Biolinum";
+  font-style: normal;
+  font-weight: normal;
+  src: url(fonts/pa_LinBiolinum_Regular.ttf);
+}
+@font-face {
+  font-family: "Subset-Linux Biolinum";
+  font-style: italic;
+  font-weight: normal;
+  src: url(fonts/pa_LinBiolinum_Italic.ttf);
+}
+@font-face {
+  font-family: "Subset-Linux Biolinum";
+  font-style: normal;
+  font-weight: bold;
+  src: url(fonts/pa_LinBiolinum_Bold.ttf);
+}
+@font-face {
+  font-family: "Subset-Dancing Script";
+  font-style: normal;
+  font-weight: normal;
+  src: url(fonts/pa_DancingScript.ttf);
+}
+@font-face {
+  font-family: "Subset-Kaushan Script";
+  font-style: normal;
+  font-weight: normal;
+  src: url(fonts/KaushanScript_Regular.ttf);
+}
+@font-face {
+  font-family: "Subset-DejaVu Sans";
+  font-style: normal;
+  src: url(fonts/pa_DejaVuSans_smiley.ttf);
+}
+section, header, nav, figure {
+  display: block;
+}
+body, div, p, h1, h2, h3, section, header, nav, figure {
+  margin: 0;
+  padding: 0;
+}
+body {
+  text-align: left;
+  font-family: "CrimsonSerif", "Parsx-Serif", "Palatino", serif;
+  font-family: "Subset-Crimson Text", "Subset-Noto Serif", Palatino, serif;
+  font-size: 1em;
+  line-height: 1.6em;
+  widows: 2;
+  orphans: 2;
+}
+p {
+  text-indent: 1.3em;
+  margin-bottom: 0;
+}
+header + p, div.einschub > p.firstInContainer, p.leerzeile + p {
+  text-indent: 0;
+}
+p.no_indent {
+  text-indent: 0;
+}
+figure {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding: 0;
+  page-break-inside: avoid;
+}
+div.liste_geordnet {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: 0.5rem;
+}
+div.liste_geordnet ol {
+  list-style-position: outside;
+}
+li p.firstInContainer {
+  display: block;
+  text-indent: 0;
+}
+li p {
+  display: block;
+  text-indent: 0;
+}
+ol {
+  list-style: decimal;
+}
+ol.listType_number {
+  list-style: decimal;
+}
+@media amzn-kf8 {
+  ol.listType_greek {
+    list-style: lower-alpha;
+  }
+}
+ul {
+  list-style: disc;
+}
+@media amzn-kf8 {
+  div.liste_manuell ul li span.zaehler {
+    margin-right: 0;
+    padding-right: 0;
+  }
+  div.liste_manuell ul li div.inhalt {
+    margin-left: 0;
+    border-left: 1px solid white;
+  }
+}
+sub {
+  font-size: 0.8em;
+  line-height: 1;
+  position: relative;
+}
+header {
+  font-family: "CrimsonSerif", "Parsx-Serif", "Palatino", serif;
+  font-family: "Subset-Crimson Text", "Subset-Noto Serif", Palatino, serif;
+  page-break-inside: avoid;
+  page-break-after: avoid;
+}
+header * {
+  line-height: 1.6em;
+}
+header.u1 {
+  margin-top: 2em;
+  margin-bottom: 1.5em;
+}
+header.u1 h1.titel {
+  margin-bottom: 0;
+}
+h1.titel {
+  font-size: 1.6em;
+  font-weight: bold;
+  color: initial;
+  margin-top: 0.64rem;
+}
+header.u2 {
+  margin-top: 2em;
+  margin-bottom: 1.5em;
+}
+h2.titel {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: initial;
+  margin-top: 0.7rem;
+}
+header.u3 {
+  margin-top: 2em;
+  margin-bottom: 1.5em;
+}
+h3.titel {
+  font-size: 1.4em;
+  font-weight: bold;
+  color: initial;
+  margin-top: 0.76rem;
+}
+div.einschub {
+  font-family: "CrimsonSerif", "Parsx-Serif", "Palatino", serif;
+  font-family: "Subset-Crimson Text", "Subset-Noto Serif", Palatino, serif;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+span.origpage {
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: #666;
+  display: inline-block;
+  margin-right: 0.2em;
+}
+span.versal {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+a.verweis.extern {
+  color: initial;
+  font-weight: bold;
+  text-decoration: underline;
+}
+span.endnote {
+  margin: 0;
+  padding: 0;
+}
+span.endnote a {
+  color: initial;
+  border: 0;
+  font-weight: bold;
+  font-style: normal;
+  text-decoration: none;
+  padding-left: 0.2em;
+  padding-right: 0.2em;
+}
+section.endnoten > ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+li.endnote {
+  margin-bottom: 0.5em;
+}
+div.endnotenzaehler {
+  display: inline-block;
+  float: left;
+  visibility: visible;
+  vertical-align: inherit;
+  margin-right: 10px;
+  margin-left: 0;
+  padding: 0;
+}
+div.endnotenzaehler > p, div.endnoteninhalt > p {
+  text-indent: 0;
+  display: inline;
+  widows: 1;
+  orphans: 1;
+}
+div.endnotenzaehler > p > a {
+  font-size: 100%;
+  font-weight: bold;
+  color: initial;
+  text-decoration: none;
+  border: 1px solid initial;
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+}
+div.endnoteninhalt {
+  display: block;
+  widows: 1;
+  orphans: 1;
+}
+@media amzn-kf8 {
+  span.initiale.typ2 {
+    display: block;
+    float: left;
+    font-size: 1em;
+    line-height: 1em;
+    margin-right: 15px;
+    margin-top: -0.3225em;
+    margin-bottom: -0.3245em;
+    margin-left: 0;
+    padding: 0;
+    text-align: left;
+    vertical-align: top;
+  }
+}
+div.cover {
+  width: 100%;
+}
+svg#coverpage {
+  max-height: 100%;
+  height: 99vh;
+  margin: 0;
+}
+section.haupttitel p {
+  text-indent: 0;
+}
+p.titelei_autor {
+  font-size: 1.2em;
+  line-height: 1.3em;
+  font-weight: bold;
+  margin-top: 2em;
+}
+p.titelei_untertitel {
+  margin-top: 1em;
+  font-size: 1.3em;
+  margin-bottom: 1em;
+  color: initial;
+}
+div.infoblock {
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+section.inhaltsverzeichnis h1 {
+  font-size: 1.6em;
+  font-weight: bold;
+  color: initial;
+  margin-top: 2em;
+  margin-bottom: 1.5em;
+}
+nav.inhalt ul {
+  list-style-type: none;
+}
+nav.inhalt ul a {
+  color: initial;
+  text-decoration: none;
+}
+nav.inhalt ul li {
+  margin-top: 0.5em;
+}
+nav.inhalt ul.lvl_1 {
+  padding-left: 0.8em;
+}
+nav.inhalt ul.lvl_1 > li > a {
+  font-size: 1em;
+  font-weight: bold;
+}
+nav.inhalt ul.lvl_2 {
+  padding-left: 1.6em;
+}
+nav.inhalt ul.lvl_2 > li > a {
+  font-size: 1em;
+  font-weight: bold;
+}
+nav.inhalt ul.lvl_3 {
+  padding-left: 1.6em;
+}
+nav.inhalt ul.lvl_3 > li > a {
+  font-size: 1em;
+  font-weight: normal;
+}
+section.kurztext p {
+  text-indent: 0;
+}
+section.biographie p {
+  text-indent: 0;
+}
+section.impressum p {
+  text-indent: 0;
+}
+div.einschub p {
+  text-indent: 0;
+}
+div.einschub {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-right: 1em;
+  margin-left: 1.25em;
+}
+div.einschub.widmung {
+  font-family: "Subset-Crimson Text", "Subset-Noto Serif", Palatino, serif;
+  font-size: 1em;
+  font-style: italic;
+  text-align: right;
+  margin-right: 1em;
+}
+div.einschub.widmung p {
+  text-indent: 0;
+}
+section.haupttitel {
+  text-align: center;
+}
+section.biographie {
+  margin-bottom: 1.5em;
+}
+figure.titelei_verlagslogo.abbildung {
+  vertical-align: bottom;
+  margin-top: 4em;
+  width: 100%;
+  border-width: 0;
+  outline-style: none;
+}
+figure.titelei_verlagslogo.abbildung > img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 2cm;
+}
+@media amzn-kf8 {
+  span.initiale {
+    font-size: 2em;
+    line-height: 1em;
+    padding-top: 0.1em;
+  }
+}
