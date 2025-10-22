@@ -70,10 +70,10 @@ Auch dann, wenn du keinen hast.
 
 ## scans
 
-### TODO_BOOK_TORRENT_NAME
+### wot.se.fack.von.vince.ebert.2025.german.book.scan.600dpi.deskew.tiff
 
 ```
-TODO_BOOK_TORRENT_MAGNET_LINK
+magnet:?xt=urn:btih:f24caf1bcea772888fd634c46a0e1d17fb0b4114&dn=wot.se.fack.von.vince.ebert.2025.german.book.scan.600dpi.deskew.tiff&xl=944774844&tr=udp%3A%2F%2F45.9.60.30%3A6969%2Fannounce&tr=udp%3A%2F%2F185.216.179.62%3A25%2Fannounce&tr=udp%3A%2F%2F93.158.213.92%3A1337%2Fannounce&tr=udp%3A%2F%2F107.189.2.131%3A1337%2Fannounce&piece_size=4194304
 ```
 
 ## mirrors
