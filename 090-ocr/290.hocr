@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/290.tiff"; bbox 0 0 2703 4838; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 436 876 2402 4444">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 436 876 2402 4444">
+     <span class='ocr_line' id='line_1_1' title="bbox 436 876 1296 950; baseline 0.002 -15; x_size 73.072983; x_descenders 18.053125; x_ascenders 19.683184">
+      <span class='ocrx_word' id='word_1_1' title='bbox 436 876 1296 950; x_wconf 92'>QUELLENANGABEN</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 525 1150 2339 1222; baseline 0 -19; x_size 72; x_descenders 18; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_2' title='bbox 525 1169 544 1203; x_wconf 89'>ı</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 571 1150 2339 1222; x_wconf 91'>https://www.focus.de/panorama/kommentar-von-ulrich-reitz-</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 570 1242 2313 1297; baseline -0.001 -1; x_size 71.881119; x_descenders 17.881121; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_4' title='bbox 570 1242 2313 1297; x_wconf 91'>weisse-menschen-unerwuenscht-im-museum-wenn-die-nur-</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 570 1334 1771 1400; baseline -0.001 -11; x_size 66; x_descenders 12; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_5' title='bbox 570 1334 1771 1400; x_wconf 90'>wuessten-was-sie-tun_id_203789464.html</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 518 1426 2088 1499; baseline 0.001 -20; x_size 72; x_descenders 18; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_6' title='bbox 518 1445 544 1479; x_wconf 92'>2</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 571 1426 2088 1499; x_wconf 88' lang='eng'>https://www.zeit.de/gesellschaft/2023-11/deutschland-</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 572 1518 1814 1573; baseline 0.002 -2; x_size 72.881119; x_descenders 17.881121; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_8' title='bbox 572 1518 1814 1573; x_wconf 91'>universitaeten-antisemitismus-israel-hamas</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 519 1610 2137 1681; baseline 0.001 -18; x_size 72; x_descenders 18; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_9' title='bbox 519 1628 543 1675; x_wconf 92'>3</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 571 1610 2137 1681; x_wconf 87' lang='eng'>https://www.ifd-allensbach.de/fileadmin/kurzberichte_</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 572 1701 2154 1775; baseline -0.001 -19; x_size 63; x_descenders 9; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_11' title='bbox 572 1701 2154 1775; x_wconf 52'>dokumentationen/FAZ_Juni2021_Meinungsfreiheit.pdf</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 514 1793 2391 1865; baseline 0 -18; x_size 71; x_descenders 17; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_12' title='bbox 514 1812 545 1859; x_wconf 92'>4</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 571 1793 2391 1865; x_wconf 88'>https://exxpress.at/dfb-star-kroos-bleibt-in-spanien-deutschland-</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 572 1885 1723 1943; baseline 0 -3; x_size 71.881119; x_descenders 17.881121; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_14' title='bbox 572 1885 1723 1943; x_wconf 91'>offenbar-zu-unsicher-fuer-seine-familie/</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 521 1977 2383 2050; baseline 0 -20; x_size 73; x_descenders 19; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_15' title='bbox 521 1997 543 2042; x_wconf 92'>5</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 571 1977 2383 2050; x_wconf 76'>https://www.nzz.ch/feuilleton/60-minutes-meinungsfreiheit-vs-</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 571 2069 1791 2135; baseline 0.001 -12; x_size 66; x_descenders 12; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_17' title='bbox 571 2069 1791 2135; x_wconf 87'>hassrede-deutschland-im-fokus-1d.1872005</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 515 2160 2254 2232; baseline -0.001 -17; x_size 66; x_descenders 11; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_18' title='bbox 515 2168 544 2215; x_wconf 93'>6</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 571 2160 2254 2232; x_wconf 91'>https://www.welt.de/debatte/plus255891078/Haftstrafe-fuer-</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 573 2253 2098 2307; baseline 0 0; x_size 71.881119; x_descenders 17.881121; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_20' title='bbox 573 2253 2098 2307; x_wconf 90'>Faeser-Meme-Ein-Urteil-wie-aus-einer-Diktatur.html</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 519 2344 2224 2417; baseline 0 -19; x_size 73; x_descenders 18; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_21' title='bbox 519 2364 546 2409; x_wconf 92'>7</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 571 2344 2224 2417; x_wconf 88'>https://www.heute.at/s/gesunde-frau-53-lebt-freiwillig-im-</span>
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 572 2436 1116 2502; baseline 0.002 -13; x_size 65; x_descenders 11; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_23' title='bbox 572 2436 1116 2502; x_wconf 91'>rollstuhl-100243855</span>
+     </span>
+     <span class='ocr_line' id='line_1_17' title="bbox 517 2527 2282 2600; baseline 0 -19; x_size 73; x_descenders 19; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_24' title='bbox 517 2535 544 2581; x_wconf 93'>8</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 572 2527 2282 2600; x_wconf 87' lang='eng'>https://www.nationalreview.com/2021/09/the-folly-of-woke-</span>
+     </span>
+     <span class='ocr_line' id='line_1_18' title="bbox 572 2619 740 2676; baseline 0.018 -4; x_size 72.881119; x_descenders 17.881121; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_26' title='bbox 572 2619 740 2676; x_wconf 91'>math/</span>
+     </span>
+     <span class='ocr_line' id='line_1_19' title="bbox 515 2711 2027 2783; baseline 0 -19; x_size 72; x_descenders 18; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_27' title='bbox 515 2730 544 2775; x_wconf 92'>9</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 572 2711 2027 2783; x_wconf 82' lang='eng'>https://www.youtube.com/watch?v=IEbWnXIexNk</span>
+     </span>
+     <span class='ocr_line' id='line_1_20' title="bbox 489 2802 1831 2875; baseline 0.001 -20; x_size 70; x_descenders 16; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_29' title='bbox 489 2821 544 2856; x_wconf 89'>10</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 572 2802 1831 2875; x_wconf 89'>https://de.wikipedia.org/wiki/Sola_scriptura</span>
+     </span>
+     <span class='ocr_line' id='line_1_21' title="bbox 502 2893 2270 2966; baseline 0.002 -20; x_size 73; x_descenders 18; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_31' title='bbox 502 2913 545 2946; x_wconf 87'>11</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 572 2893 2270 2966; x_wconf 88'>https://www.faz.net/aktuell/feuilleton/forschung-und-lehre/</span>
+     </span>
+     <span class='ocr_line' id='line_1_22' title="bbox 573 2985 2345 3058; baseline 0 -20; x_size 73; x_descenders 19; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_33' title='bbox 573 2985 2345 3058; x_wconf 91'>islamische-theologie-die-zweiheit-von-glaube-und-forschung-</span>
+     </span>
+     <span class='ocr_line' id='line_1_23' title="bbox 574 3077 940 3142; baseline -0.003 -11; x_size 65; x_descenders 12; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_34' title='bbox 574 3077 940 3142; x_wconf 90'>1873302.html</span>
+     </span>
+     <span class='ocr_line' id='line_1_24' title="bbox 495 3169 2399 3241; baseline 0 -20; x_size 72; x_descenders 19; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_35' title='bbox 495 3187 546 3221; x_wconf 91'>ı2</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 574 3171 687 3222; x_wconf 92'>Luis</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 708 3172 781 3222; x_wconf 92'>M.</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 796 3172 856 3222; x_wconf 87'>A.</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 879 3173 1220 3230; x_wconf 91'>Bettencourt,</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 1242 3169 1372 3222; x_wconf 92'>Dirk</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 1390 3169 1611 3241; x_wconf 92'>Helbing</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 1630 3179 1679 3222; x_wconf 93'>et</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 1699 3169 1774 3230; x_wconf 92'>al.,</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 1797 3169 2056 3230; x_wconf 91'>»Growth,</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 2078 3172 2399 3228; x_wconf 96'>Innovation,</span>
+     </span>
+     <span class='ocr_line' id='line_1_25' title="bbox 574 3259 2270 3332; baseline 0 -19; x_size 72; x_descenders 18; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_46' title='bbox 574 3260 791 3331; x_wconf 92'>Scaling,</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 814 3260 917 3313; x_wconf 96'>and</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 936 3260 1021 3313; x_wconf 96'>the</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 1042 3264 1166 3314; x_wconf 96'>Pace</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 1187 3260 1247 3314; x_wconf 96'>of</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 1260 3260 1364 3314; x_wconf 96'>Life</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 1384 3266 1438 3313; x_wconf 93'>in</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 1459 3263 1665 3321; x_wconf 92'>Cities«,</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 1687 3265 1755 3313; x_wconf 96'>in:</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 1776 3260 2100 3332; x_wconf 96'>Proceedings</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 2121 3259 2180 3331; x_wconf 96'>of</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 2190 3259 2270 3313; x_wconf 96'>the</span>
+     </span>
+     <span class='ocr_line' id='line_1_26' title="bbox 571 3351 2141 3423; baseline 0 -18; x_size 65; x_descenders 11; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_58' title='bbox 571 3351 817 3405; x_wconf 96' lang='eng'>National</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 832 3351 1088 3423; x_wconf 96'>Academy</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 1107 3351 1167 3423; x_wconf 97' lang='eng'>of</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 1174 3354 1407 3412; x_wconf 93'>Sciences,</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 1432 3351 1849 3416; x_wconf 88' lang='eng'>104(17):7301-6,</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 1872 3370 2018 3416; x_wconf 95' lang='eng'>2007,</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 2039 3351 2141 3405; x_wconf 94' lang='eng'>doi.</span>
+     </span>
+     <span class='ocr_line' id='line_1_27' title="bbox 573 3445 1371 3514; baseline 0.001 -18; x_size 62; x_descenders 11; x_ascenders 15">
+      <span class='ocrx_word' id='word_1_65' title='bbox 573 3445 1371 3514; x_wconf 75' lang='eng'>0rg/10.1073/pnas.0610172104</span>
+     </span>
+     <span class='ocr_line' id='line_1_28' title="bbox 498 3532 2402 3605; baseline 0.001 -19; x_size 72; x_descenders 18; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_66' title='bbox 498 3552 545 3598; x_wconf 96' lang='eng'>13</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 574 3534 828 3587; x_wconf 96' lang='eng'>Bertrand</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 849 3534 1055 3595; x_wconf 93' lang='eng'>Russell,</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 1078 3534 1255 3588; x_wconf 90' lang='eng'>»Zehn</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 1276 3534 1476 3588; x_wconf 96'>Gebote</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 1497 3539 1637 3588; x_wconf 93' lang='eng'>eines</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1659 3534 1971 3595; x_wconf 88'>Liberalen«,</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 1993 3539 2061 3587; x_wconf 92' lang='eng'>in:</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 2080 3532 2402 3605; x_wconf 96'>Aufklärung</span>
+     </span>
+     <span class='ocr_line' id='line_1_29' title="bbox 575 3624 2210 3697; baseline 0.001 -19; x_size 72; x_descenders 18; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_75' title='bbox 575 3624 682 3678; x_wconf 91' lang='eng'>und</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 699 3625 875 3679; x_wconf 91' lang='eng'>Kritik.</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 898 3625 1177 3697; x_wconf 96' lang='eng'>Zeitschrift</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 1183 3625 1277 3697; x_wconf 93' lang='eng'>fiir</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 1282 3625 1435 3697; x_wconf 92' lang='eng'>freies</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 1453 3625 1666 3679; x_wconf 92' lang='eng'>Denken</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 1690 3625 1797 3679; x_wconf 93' lang='eng'>und</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 1816 3624 2210 3679; x_wconf 91' lang='eng'>humanistische</span>
+     </span>
+     <span class='ocr_line' id='line_1_30' title="bbox 572 3716 2186 3788; baseline 0 -19; x_size 71; x_descenders 18; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_83' title='bbox 572 3716 905 3787; x_wconf 96' lang='eng'>Philosophie,</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 926 3716 1045 3769; x_wconf 96' lang='eng'>Heft</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 1067 3735 1110 3777; x_wconf 10' lang='eng'>2,</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 1132 3735 1271 3781; x_wconf 10' lang='eng'>1994,</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 1293 3720 1435 3781; x_wconf 81' lang='eng'>S.136</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 1459 3717 1615 3788; x_wconf 96'>(hrsg.</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 1636 3735 1742 3770; x_wconf 96' lang='eng'>von</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 1764 3716 2086 3787; x_wconf 82' lang='eng'>Gesellschaft</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 2091 3716 2186 3787; x_wconf 94' lang='eng'>fiir</span>
+     </span>
+     <span class='ocr_line' id='line_1_31' title="bbox 574 3806 1157 3879; baseline 0.002 -19; x_size 72; x_descenders 18; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_92' title='bbox 574 3806 805 3861; x_wconf 93' lang='eng'>kritische</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 823 3807 1157 3879; x_wconf 96' lang='eng'>Philosophie)</span>
+     </span>
+     <span class='ocr_line' id='line_1_32' title="bbox 492 3898 2401 3969; baseline 0.002 -19; x_size 71; x_descenders 17; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_94' title='bbox 492 3916 547 3962; x_wconf 91' lang='eng'>14</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 572 3898 2401 3969; x_wconf 85' lang='eng'>www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/</span>
+     </span>
+     <span class='ocr_line' id='line_1_33' title="bbox 574 3989 1886 4062; baseline -0.001 -19; x_size 73; x_descenders 19; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_96' title='bbox 574 3989 1748 4062; x_wconf 55' lang='eng'>Sterbefaelle-Lebenserwartung/sterbetafel.</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 1771 3989 1886 4043; x_wconf 95' lang='eng'>html</span>
+     </span>
+     <span class='ocr_line' id='line_1_34' title="bbox 499 4080 2345 4153; baseline 0.001 -20; x_size 65; x_descenders 11; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_98' title='bbox 499 4099 545 4145; x_wconf 96' lang='eng'>15</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 574 4080 697 4134; x_wconf 93' lang='eng'>Rolf</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 710 4081 932 4142; x_wconf 91' lang='eng'>Dobelli,</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 952 4085 1047 4135; x_wconf 96' lang='eng'>Die</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 1065 4085 1230 4135; x_wconf 96' lang='eng'>Kunst</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 1247 4081 1331 4135; x_wconf 93' lang='eng'>des</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 1345 4091 1500 4153; x_wconf 92' lang='eng'>guten</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 1520 4081 1724 4142; x_wconf 91' lang='eng'>Lebens,</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 1745 4081 2016 4135; x_wconf 91' lang='eng'>Miinchen</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 2037 4099 2168 4145; x_wconf 93' lang='eng'>2017,</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 2190 4083 2232 4134; x_wconf 92' lang='eng'>S.</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 2251 4087 2345 4134; x_wconf 96' lang='eng'>288</span>
+     </span>
+     <span class='ocr_line' id='line_1_35' title="bbox 439 4393 548 4444; baseline 0.009 -13; x_size 73.072983; x_descenders 18.053125; x_ascenders 19.683184">
+      <span class='ocrx_word' id='word_1_110' title='bbox 439 4393 548 4444; x_wconf 96' lang='eng'>290</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

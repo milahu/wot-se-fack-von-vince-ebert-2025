@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/003.tiff"; bbox 0 0 2777 4840; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 328 556 2329 4223">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 326 556 2329 4223">
+     <span class='ocr_line' id='line_1_1' title="bbox 357 556 1592 721; baseline -0.002 -1; x_size 291.625; x_descenders 70.449997; x_ascenders 73.724998">
+      <span class='ocrx_word' id='word_1_1' title='bbox 357 556 946 721; x_wconf 91'>VINCE</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1027 558 1592 718; x_wconf 92'>EBERT</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 328 1026 1904 1356; baseline 0 -6; x_size 420.6098; x_descenders 101.6098; x_ascenders 106.33334">
+      <span class='ocrx_word' id='word_1_3' title='bbox 328 1026 1303 1356; x_wconf 91'>WOT</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1455 1026 1904 1356; x_wconf 96'>SE</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 361 1433 1492 1791; baseline 0.031 -35; x_size 419.29129; x_descenders 101.29128; x_ascenders 106">
+      <span class='ocrx_word' id='word_1_5' title='bbox 361 1433 1492 1791; x_wconf 87' lang='eng'>FACK,</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 360 1858 1909 2013; baseline 0.003 -7; x_size 291.625; x_descenders 70.449997; x_ascenders 73.724998">
+      <span class='ocrx_word' id='word_1_6' title='bbox 360 1858 1909 2013; x_wconf 95' lang='eng'>DEUTSCHLAND?</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 957 2282 2329 2476; baseline 0.001 -1; x_size 224.14943; x_descenders 54.149426; x_ascenders 56.666668">
+      <span class='ocrx_word' id='word_1_7' title='bbox 957 2400 1126 2475; x_wconf 93' lang='eng'>den</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1154 2283 1581 2476; x_wconf 90' lang='eng'>Verstand</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1605 2282 2024 2476; x_wconf 57' lang='eng'>verloren</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 2033 2283 2329 2476; x_wconf 95' lang='eng'>haben</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1254 4131 1408 4223; baseline -0.013 0; x_size 170; x_descenders 32; x_ascenders 46">
+      <span class='ocrx_word' id='word_1_11' title='bbox 1254 4131 1408 4223; x_wconf 93'>dtv</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

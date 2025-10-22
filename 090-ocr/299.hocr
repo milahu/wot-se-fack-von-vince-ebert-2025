@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/299.tiff"; bbox 0 0 2740 4839; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 305 400 2730 4446">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 317 400 2185 659">
+     <span class='ocr_line' id='line_1_1' title="bbox 317 400 2110 474; baseline 0 -19; x_size 74; x_descenders 19; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_1' title='bbox 317 408 397 467; x_wconf 96'>158</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 425 401 625 456; x_wconf 93'>Patrick</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 643 404 686 456; x_wconf 92'>S.</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 710 401 956 456; x_wconf 96'>Forscher</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 975 411 1024 456; x_wconf 93'>et</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1043 401 1120 463; x_wconf 92'>al.,</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1143 405 1219 455; x_wconf 92'>»A</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1239 400 1626 474; x_wconf 92'>meta-analysis</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1647 400 1709 456; x_wconf 95'>of</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1720 400 2036 473; x_wconf 96'>procedures</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 2055 410 2110 455; x_wconf 96'>to</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 425 493 2185 567; baseline -0.001 -19; x_size 65; x_descenders 11; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_12' title='bbox 425 493 620 567; x_wconf 93'>change</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 640 494 859 566; x_wconf 91'>implicit</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 878 513 1187 556; x_wconf 91'>measures«,</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1208 499 1278 548; x_wconf 92'>in:</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1299 500 1426 548; x_wconf 90'>APA</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1447 497 1678 567; x_wconf 90'>PsycNet,</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1701 496 1835 566; x_wconf 95'>Sept.</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1858 512 1997 559; x_wconf 93'>2019,</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 2019 493 2185 559; x_wconf 92'>117(3):</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 425 590 1437 659; baseline 0.001 -19; x_size 64; x_descenders 12; x_ascenders 16">
+      <span class='ocrx_word' id='word_1_21' title='bbox 425 605 658 653; x_wconf 93'>522-559,</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 679 593 819 642; x_wconf 88' lang='eng'>DOI:</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 842 590 1437 659; x_wconf 85'>10.1037/pspa0000160</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 316 678 2249 937">
+     <span class='ocr_line' id='line_1_4' title="bbox 316 678 2249 752; baseline 0 -20; x_size 72; x_descenders 18; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_24' title='bbox 316 698 396 744; x_wconf 96'>159</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 424 679 687 734; x_wconf 96'>Elizabeth</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 708 683 843 752; x_wconf 93'>Levy</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 861 679 1050 733; x_wconf 92'>Paluck</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 1067 690 1116 733; x_wconf 93'>et</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 1136 679 1212 741; x_wconf 89'>al.,</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 1235 679 1532 751; x_wconf 92'>»Prejudice</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 1551 679 1861 733; x_wconf 96'>Reduction:</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1883 683 2123 751; x_wconf 96'>Progress</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 2144 678 2249 732; x_wconf 96'>and</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 425 771 2102 845; baseline 0 -20; x_size 73; x_descenders 18; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_34' title='bbox 425 771 780 845; x_wconf 91'>Challenges«,</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 801 776 870 826; x_wconf 96' lang='eng'>in:</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 889 771 1099 826; x_wconf 96' lang='eng'>Annual</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 1115 775 1315 826; x_wconf 96'>Review</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1335 771 1396 844; x_wconf 97' lang='eng'>of</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 1401 771 1718 844; x_wconf 96' lang='eng'>Psychology,</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 1738 771 1847 826; x_wconf 95' lang='eng'>Vol.</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 1865 790 1941 837; x_wconf 96' lang='eng'>72,</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 1963 790 2102 833; x_wconf 95'>2021,</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 424 863 1949 937; baseline 0 -19; x_size 66; x_descenders 11; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_43' title='bbox 424 863 1949 937; x_wconf 91' lang='eng'>https://doi.org/10.1146/annurev-psych-071620-030619</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 305 956 2104 1214">
+     <span class='ocr_line' id='line_1_7' title="bbox 305 956 2041 1029; baseline -0.001 -19; x_size 73; x_descenders 19; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_44' title='bbox 305 963 397 1010; x_wconf 96'>160</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 425 956 592 1011; x_wconf 96'>Frank</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 610 957 840 1018; x_wconf 96'>Dobbin,</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 860 956 1154 1011; x_wconf 93'>Alexandra</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 1174 956 1342 1018; x_wconf 92'>Kalev,</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 1380 980 1389 1006; x_wconf 25'>»</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 1394 956 1532 1029; x_wconf 25'>Why</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 1549 956 1762 1011; x_wconf 85'>Doesn&#39;t</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 1782 960 2041 1029; x_wconf 96'>Diversity</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 425 1048 2104 1122; baseline 0 -20; x_size 73; x_descenders 18; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_53' title='bbox 425 1050 667 1122; x_wconf 93'>Training</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 685 1049 916 1111; x_wconf 85'>Work?«,</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 937 1054 1005 1103; x_wconf 96'>in:</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 1024 1048 1404 1121; x_wconf 95'>Anthropology</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 1424 1068 1551 1110; x_wconf 96'>now,</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 1572 1048 1680 1103; x_wconf 94'>Vol.</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 1699 1067 1771 1110; x_wconf 94'>10,</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 1792 1052 1876 1103; x_wconf 95'>No</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 1899 1067 1943 1110; x_wconf 96'>2,</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 1966 1055 2104 1110; x_wconf 96'>2018,</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 424 1140 1727 1214; baseline 0 -20; x_size 65; x_descenders 11; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_63' title='bbox 424 1140 1727 1214; x_wconf 90'>https://doi.org/10.1080/19428200.2018.1493182</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 319 1232 2012 1380">
+     <span class='ocr_line' id='line_1_10' title="bbox 319 1232 2012 1306; baseline 0 -20; x_size 74; x_descenders 19; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_64' title='bbox 319 1240 398 1287; x_wconf 93'>161</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 425 1232 2012 1306; x_wconf 89'>https://www.nytimes.com/2020/07/16/arts/music/blind-</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 426 1326 1299 1380; baseline 0 0; x_size 65.723915; x_descenders 11.723913; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_66' title='bbox 426 1326 1299 1380; x_wconf 89'>auditions-orchestras-race.</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 1180 1322 1304 1396; x_wconf 96'>html</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 313 1417 2032 1564">
+     <span class='ocr_line' id='line_1_12' title="bbox 313 1417 2032 1491; baseline 0.001 -20; x_size 66; x_descenders 11; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_68' title='bbox 313 1425 399 1472; x_wconf 87'>162</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 425 1417 2032 1491; x_wconf 85'>https://www.nytimes.com/2018/04/04/us/harvard-asian-</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 426 1510 867 1564; baseline 0 0; x_size 65.723915; x_descenders 11.723913; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_70' title='bbox 426 1510 867 1564; x_wconf 91'>admission.html</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 316 1601 2230 1751">
+     <span class='ocr_line' id='line_1_14' title="bbox 316 1601 2230 1673; baseline 0 -19; x_size 66; x_descenders 11; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_71' title='bbox 316 1609 398 1667; x_wconf 90'>163</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 425 1601 2230 1673; x_wconf 81'>https://www.harvard.edu/admissionscase/2023/06/29/supreme-</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 426 1694 860 1751; baseline 0.005 -3; x_size 65.723915; x_descenders 11.723913; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_73' title='bbox 426 1694 860 1751; x_wconf 90'>court-decision/</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 310 1784 2271 1951">
+     <span class='ocr_line' id='line_1_16' title="bbox 310 1784 2271 1859; baseline 0 -20; x_size 74; x_descenders 19; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_74' title='bbox 310 1793 400 1850; x_wconf 95'>164</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 426 1789 538 1840; x_wconf 96'>Eric</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 558 1785 870 1848; x_wconf 96'>Kaufmann,</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 892 1786 1026 1841; x_wconf 96'>Shall</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 1046 1786 1125 1841; x_wconf 96'>the</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 1143 1785 1390 1859; x_wconf 96'>Religious</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 1408 1786 1596 1840; x_wconf 96'>Inherit</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 1616 1785 1697 1840; x_wconf 96'>the</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 1714 1785 1898 1840; x_wconf 96'>Earth?</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 1914 1784 2271 1858; x_wconf 96'>Demography</span>
+     </span>
+     <span class='ocr_line' id='line_1_17' title="bbox 427 1878 2128 1951; baseline -0.001 -18; x_size 66; x_descenders 11; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_84' title='bbox 427 1878 533 1932; x_wconf 95'>and</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 548 1878 745 1933; x_wconf 94'>Politics</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 767 1884 816 1933; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 840 1878 920 1933; x_wconf 95'>the</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 944 1881 1292 1951; x_wconf 95'>Twenty-First</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 1312 1881 1549 1950; x_wconf 96'>Century,</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 1571 1878 1793 1932; x_wconf 96'>London</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 1814 1897 1955 1939; x_wconf 90'>2010,</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 1978 1881 2021 1932; x_wconf 91'>S.</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 2039 1896 2128 1943; x_wconf 96'>527</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 316 1969 2154 2134">
+     <span class='ocr_line' id='line_1_18' title="bbox 316 1969 2154 2041; baseline -0.001 -17; x_size 63; x_descenders 9; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_94' title='bbox 316 1977 398 2035; x_wconf 92'>165</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 425 1969 2154 2041; x_wconf 88'>www.nzz.ch/nachrichten/schweiz/klimapolitik_verteilt_das_</span>
+     </span>
+     <span class='ocr_line' id='line_1_19' title="bbox 425 2061 1458 2134; baseline -0.001 -18; x_size 66; x_descenders 12; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_96' title='bbox 425 2061 1197 2134; x_wconf 90'>weltvermoegen_neu_1.8373</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 1219 2061 1458 2127; x_wconf 88'>227.html</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 309 2152 2200 2392">
+     <span class='ocr_line' id='line_1_20' title="bbox 309 2152 2141 2226; baseline -0.001 -19; x_size 73; x_descenders 18; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_98' title='bbox 309 2160 399 2207; x_wconf 87'>166</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 426 2152 2141 2226; x_wconf 87'>https://www.theeuropean.de/gesellschaft-kultur/rainer-zitel-</span>
+     </span>
+     <span class='ocr_line' id='line_1_21' title="bbox 427 2244 2200 2300; baseline -0.001 0; x_size 65.723915; x_descenders 11.723913; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_100' title='bbox 427 2244 2200 2300; x_wconf 89'>mann-ob-tatort-oder-derrick-der-moerder-ist-immer-der-un-</span>
+     </span>
+     <span class='ocr_line' id='line_1_22' title="bbox 426 2337 725 2392; baseline 0 -1; x_size 65.723915; x_descenders 11.723913; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_101' title='bbox 426 2337 725 2392; x_wconf 91'>ternehmer</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 315 2428 1335 2501">
+     <span class='ocr_line' id='line_1_23' title="bbox 315 2428 1335 2501; baseline 0.004 -20; x_size 72; x_descenders 18; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_102' title='bbox 315 2436 401 2493; x_wconf 90'>167</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 426 2428 1335 2501; x_wconf 84'>https://www.heritage.org/index/</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_11' lang='eng' title="bbox 312 2519 2208 2666">
+     <span class='ocr_line' id='line_1_24' title="bbox 312 2519 2208 2593; baseline 0 -20; x_size 74; x_descenders 19; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_104' title='bbox 312 2527 400 2574; x_wconf 93'>168</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 426 2519 2208 2593; x_wconf 89'>https://ourworldindata.org/a-history-of-global-living-conditi-</span>
+     </span>
+     <span class='ocr_line' id='line_1_25' title="bbox 428 2631 525 2666; baseline 0 0; x_size 67.085693; x_descenders 11.918079; x_ascenders 19.587963">
+      <span class='ocrx_word' id='word_1_106' title='bbox 428 2631 525 2666; x_wconf 96'>ons</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_12' lang='eng' title="bbox 311 2703 2150 2959">
+     <span class='ocr_line' id='line_1_26' title="bbox 311 2703 2150 2777; baseline 0.001 -20; x_size 65; x_descenders 12; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_107' title='bbox 311 2711 400 2768; x_wconf 96'>169</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 428 2708 546 2769; x_wconf 96'>Jean</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 566 2708 884 2777; x_wconf 94'>Ensminger,</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 906 2704 1091 2775; x_wconf 96'>Joseph</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 1111 2704 1344 2758; x_wconf 93'>Henrich</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 1366 2704 1580 2776; x_wconf 92'>(Hrsg.),</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 1599 2708 2015 2776; x_wconf 96'>Experimenting</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 2031 2703 2150 2757; x_wconf 96'>with</span>
+     </span>
+     <span class='ocr_line' id='line_1_27' title="bbox 428 2794 2028 2850; baseline -0.001 0; x_size 66.723915; x_descenders 11.723913; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_115' title='bbox 428 2795 592 2850; x_wconf 96'>Social</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 608 2799 809 2850; x_wconf 93'>Norms:</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 830 2800 1054 2850; x_wconf 96'>Fairness</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 1074 2795 1180 2850; x_wconf 96'>and</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 1196 2795 1531 2850; x_wconf 96'>Punishment</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 1551 2801 1599 2849; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 1622 2794 2028 2850; x_wconf 96'>Cross-Cultural</span>
+     </span>
+     <span class='ocr_line' id='line_1_28' title="bbox 426 2887 1616 2959; baseline -0.001 -18; x_size 72; x_descenders 18; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_122' title='bbox 426 2890 745 2958; x_wconf 96'>Perspective,</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 767 2887 962 2941; x_wconf 96'>Russell</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 982 2890 1105 2959; x_wconf 96'>Sage</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 1126 2887 1469 2948; x_wconf 96'>Foundation,</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 1491 2905 1616 2951; x_wconf 96'>2014</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_13' lang='eng' title="bbox 312 2977 2191 3234">
+     <span class='ocr_line' id='line_1_29' title="bbox 312 2977 2191 3049; baseline 0 -18; x_size 72; x_descenders 17; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_127' title='bbox 312 2996 400 3042; x_wconf 92'>170</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 427 2977 2191 3049; x_wconf 75'>https://www.familienunternehmer.eu/fileadmin/familienunter</span>
+     </span>
+     <span class='ocr_line' id='line_1_30' title="bbox 428 3069 2123 3142; baseline 0.002 -19; x_size 73; x_descenders 19; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_129' title='bbox 428 3069 2123 3142; x_wconf 89'>nehmer/positionen/bildungspolitik/2024_Schulbuchstudie/</span>
+     </span>
+     <span class='ocr_line' id='line_1_31' title="bbox 429 3160 1997 3234; baseline -0.001 -19; x_size 63; x_descenders 9; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_130' title='bbox 429 3160 1997 3234; x_wconf 67'>240228_FamU_JungU_Schulbuchstudie.</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 1641 3156 1997 3238; x_wconf 90'>WEB_DS.pdf</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_14' lang='eng' title="bbox 324 3253 2089 3416">
+     <span class='ocr_line' id='line_1_32' title="bbox 324 3253 2089 3324; baseline 0.001 -19; x_size 64; x_descenders 10; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_132' title='bbox 324 3272 401 3317; x_wconf 93'>171</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 428 3253 2089 3324; x_wconf 88'>https://threadreaderapp.com/thread/1483479231384506368.</span>
+     </span>
+     <span class='ocr_line' id='line_1_33' title="bbox 428 3343 1049 3416; baseline 0.002 -20; x_size 74; x_descenders 19; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_134' title='bbox 428 3343 1049 3416; x_wconf 91'>html#google_vignette</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_15' lang='eng' title="bbox 319 3433 2146 3679">
+     <span class='ocr_line' id='line_1_34' title="bbox 319 3433 2058 3499; baseline 0 -12; x_size 65; x_descenders 11; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_135' title='bbox 319 3453 402 3499; x_wconf 96'>172</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 429 3438 631 3489; x_wconf 96'>Dennis</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 652 3435 843 3496; x_wconf 93'>Sewell,</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 865 3435 998 3489; x_wconf 79'>»The</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 1018 3435 1220 3489; x_wconf 96'>Second</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 1241 3438 1388 3489; x_wconf 96'>Time</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 1408 3454 1461 3489; x_wconf 95'>as</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 1482 3439 1644 3489; x_wconf 96'>Farce:</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 1666 3434 1770 3489; x_wconf 96'>The</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 1790 3440 1976 3489; x_wconf 96'>crimes</span>
+      <span class='ocrx_word' id='word_1_145' title='bbox 1997 3433 2058 3488; x_wconf 96'>of</span>
+     </span>
+     <span class='ocr_line' id='line_1_35' title="bbox 429 3525 2146 3598; baseline -0.001 -18; x_size 65; x_descenders 11; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_146' title='bbox 429 3531 802 3587; x_wconf 93'>communism,</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 823 3526 1312 3580; x_wconf 90'>retro-Bolshevism</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 1332 3526 1436 3580; x_wconf 96'>and</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 1455 3526 1542 3580; x_wconf 96'>the</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 1562 3536 1842 3598; x_wconf 96'>centenary</span>
+      <span class='ocrx_word' id='word_1_151' title='bbox 1859 3525 1920 3579; x_wconf 96'>of</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 1931 3525 2019 3579; x_wconf 96'>the</span>
+      <span class='ocrx_word' id='word_1_153' title='bbox 2039 3544 2146 3590; x_wconf 95'>1917</span>
+     </span>
+     <span class='ocr_line' id='line_1_36' title="bbox 429 3617 1813 3679; baseline -0.001 -8; x_size 61.723915; x_descenders 11.723913; x_ascenders 15">
+      <span class='ocrx_word' id='word_1_154' title='bbox 429 3621 647 3671; x_wconf 95'>Russian</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 667 3618 1023 3679; x_wconf 79'>Revolution,</span>
+      <span class='ocrx_word' id='word_1_156' title='bbox 1044 3623 1112 3671; x_wconf 96'>in:</span>
+      <span class='ocrx_word' id='word_1_157' title='bbox 1133 3622 1257 3671; x_wconf 95'>New</span>
+      <span class='ocrx_word' id='word_1_158' title='bbox 1278 3617 1483 3671; x_wconf 96'>Culture</span>
+      <span class='ocrx_word' id='word_1_159' title='bbox 1501 3621 1699 3678; x_wconf 96'>Forum,</span>
+      <span class='ocrx_word' id='word_1_160' title='bbox 1724 3636 1813 3671; x_wconf 95'>201</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_16' lang='eng' title="bbox 321 3708 2101 3861">
+     <span class='ocr_line' id='line_1_37' title="bbox 321 3708 2101 3780; baseline 0.001 -20; x_size 64; x_descenders 11; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_161' title='bbox 321 3727 401 3772; x_wconf 93'>173</span>
+      <span class='ocrx_word' id='word_1_162' title='bbox 428 3708 2101 3780; x_wconf 85'>https://www.researchgate.net/publication/228380360_The_</span>
+     </span>
+     <span class='ocr_line' id='line_1_38' title="bbox 430 3798 1952 3861; baseline 0 -9; x_size 63; x_descenders 9; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_163' title='bbox 430 3799 597 3853; x_wconf 67'>Social</span>
+      <span class='ocrx_word' id='word_1_164' title='bbox 618 3794 750 3866; x_wconf 0'>_and_</span>
+      <span class='ocrx_word' id='word_1_165' title='bbox 762 3794 1006 3866; x_wconf 0'>Political</span>
+      <span class='ocrx_word' id='word_1_166' title='bbox 1050 3803 1212 3861; x_wconf 0'>Views</span>
+      <span class='ocrx_word' id='word_1_167' title='bbox 1230 3798 1313 3861; x_wconf 0'>_of</span>
+      <span class='ocrx_word' id='word_1_168' title='bbox 1307 3798 1952 3861; x_wconf 90'>American_Professors</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_17' lang='eng' title="bbox 320 3889 2730 4144">
+     <span class='ocr_line' id='line_1_39' title="bbox 320 3889 2196 3961; baseline -0.001 -18; x_size 65; x_descenders 11; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_169' title='bbox 320 3908 403 3954; x_wconf 95'>174</span>
+      <span class='ocrx_word' id='word_1_170' title='bbox 429 3890 812 3961; x_wconf 96'>Jean-Philippe</span>
+      <span class='ocrx_word' id='word_1_171' title='bbox 833 3890 1132 3951; x_wconf 96'>Bouchaud,</span>
+      <span class='ocrx_word' id='word_1_172' title='bbox 1153 3894 1298 3944; x_wconf 93'>Marc</span>
+      <span class='ocrx_word' id='word_1_173' title='bbox 1317 3890 1545 3951; x_wconf 91'>Mézard,</span>
+      <span class='ocrx_word' id='word_1_174' title='bbox 1576 3913 1590 3939; x_wconf 64'>»</span>
+      <span class='ocrx_word' id='word_1_175' title='bbox 1596 3890 1796 3944; x_wconf 64'>Wealth</span>
+      <span class='ocrx_word' id='word_1_176' title='bbox 1817 3889 2196 3944; x_wconf 96'>condensation</span>
+     </span>
+     <span class='ocr_line' id='line_1_40' title="bbox 429 3969 2730 4053; baseline 0 -19; x_size 73; x_descenders 19; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_177' title='bbox 429 3986 483 4034; x_wconf 95'>in</span>
+      <span class='ocrx_word' id='word_1_178' title='bbox 503 4000 531 4035; x_wconf 95'>a</span>
+      <span class='ocrx_word' id='word_1_179' title='bbox 550 3981 729 4052; x_wconf 96'>simple</span>
+      <span class='ocrx_word' id='word_1_180' title='bbox 749 3981 923 4035; x_wconf 96'>model</span>
+      <span class='ocrx_word' id='word_1_181' title='bbox 942 3981 1001 4035; x_wconf 93'>of</span>
+      <span class='ocrx_word' id='word_1_182' title='bbox 1012 4000 1309 4053; x_wconf 71'>economyx,</span>
+      <span class='ocrx_word' id='word_1_183' title='bbox 1330 3986 1397 4035; x_wconf 96'>in:</span>
+      <span class='ocrx_word' id='word_1_184' title='bbox 1418 3981 1619 4053; x_wconf 96'>Physica</span>
+      <span class='ocrx_word' id='word_1_185' title='bbox 1636 3985 1697 4042; x_wconf 95'>A,</span>
+      <span class='ocrx_word' id='word_1_186' title='bbox 1717 3981 1823 4035; x_wconf 96'>Vol.</span>
+      <span class='ocrx_word' id='word_1_187' title='bbox 1842 3988 1949 4042; x_wconf 96'>282,</span>
+      <span class='ocrx_word' id='word_1_188' title='bbox 1970 3984 2131 4034; x_wconf 96'>Issues</span>
+      <span class='ocrx_word' id='word_1_189' title='bbox 2152 3999 2265 4045; x_wconf 94'>3-4,</span>
+      <span class='ocrx_word' id='word_1_190' title='bbox 2729 3969 2730 3972; x_wconf 80'>|</span>
+     </span>
+     <span class='ocr_line' id='line_1_41' title="bbox 430 4072 2146 4144; baseline 0 -19; x_size 64; x_descenders 11; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_191' title='bbox 430 4091 475 4137; x_wconf 96'>15</span>
+      <span class='ocrx_word' id='word_1_192' title='bbox 499 4072 608 4144; x_wconf 96'>July</span>
+      <span class='ocrx_word' id='word_1_193' title='bbox 626 4091 783 4133; x_wconf 96'>2000,</span>
+      <span class='ocrx_word' id='word_1_194' title='bbox 805 4080 1025 4137; x_wconf 92'>536-545,</span>
+      <span class='ocrx_word' id='word_1_195' title='bbox 1047 4072 2146 4144; x_wconf 83'>doi.org/10.1016/50378-4371(00)00205-3</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_18' lang='eng' title="bbox 2160 4394 2265 4446">
+     <span class='ocr_line' id='line_1_42' title="bbox 2160 4394 2265 4446; baseline 0 0; x_size 67.085693; x_descenders 11.918079; x_ascenders 19.587963">
+      <span class='ocrx_word' id='word_1_196' title='bbox 2160 4394 2265 4446; x_wconf 96'>299</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
